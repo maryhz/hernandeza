@@ -3,6 +3,8 @@
 
 #### Alumna: *Mary Cruz Hernandez Alanis*  
 #### No. Control: *18100186*
-#### Carrera: *Ingeniería en sistemas computacionales*  
+#### Carrera: *Ingeniería en sistemas computacionales* 
 
-
+### Carpetas
+#### Parcial 1
+##### - Curriculum Vitae
