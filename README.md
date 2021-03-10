@@ -8,3 +8,4 @@
 ### Carpetas
 #### Parcial 1
 ##### - Curriculum Vitae
+##### - Barra Lateral
